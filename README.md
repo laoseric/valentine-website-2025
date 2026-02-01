@@ -86,7 +86,7 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
+valentineName: "Catherine"                    // Your Valentine's name
 pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
 
 // Floating Background Elements
@@ -109,7 +109,7 @@ questions: {
         nextBtn: "Next ❤️"                         // Next button text
     },
     third: {
-        text: "Will you be my Valentine...?",      // Final question
+        text: "Will you be my Valentine?",      // Final question
         yesBtn: "Yes!",                            // Yes button text
         noBtn: "No"                                // No button text
     }
@@ -187,7 +187,7 @@ Want to make it extra special with your own romantic song? Follow these steps to
 music: {
     enabled: true,
     autoplay: true,
-    musicUrl: "YOUR_CLOUDINARY_URL_HERE", // Paste your URL here
+    musicUrl: "https://res.cloudinary.com/dn15o2g95/raw/upload/v1769921584/watch_portxq", // Paste your URL here
     startText: "🎵 Play Music",
     stopText: "🔇 Stop Music",
     volume: 0.5
