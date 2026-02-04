@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "THANK GOD, lets run some valorant and get boba and sushi! 🎉💝💖💝💓",
+        title: "THANK GOD, lets run some valorant and get boba + sushi! 🎉💝💖💝💓",
         message: "I LOVE YOU SO SO MUCH, CAN'T WAIT TO SEE YOU SOON!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
